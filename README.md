@@ -17,7 +17,7 @@ Orderbook: Get the order book of any currency in bittrex.
 
 Order: shows all orders in the order book filtered by price, highlighting orders with a big quantity.
 
-Spread: calculates the spread of the order book among the first 10 orders of each book
+Spread: calculates the spread of the order book among the first 10 orders of each book.
 
 Buscar_ordenes: Shows orders of the order book filtered for a specific price.
 
